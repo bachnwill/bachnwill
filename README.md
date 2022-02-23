@@ -2,7 +2,7 @@
 - 👀 I’m interested in R, Python, dataviz, and stats.
 - 🌱 I’m currently learning Python and ML
 - 💞️ I’m looking to collaborate on perioperative outcome prediction
-- 📫 How to reach me drwilliam.ng@mail.utoronto.ca
+- 📫 Reach me on drwilliam.ng@mail.utoronto.ca<drwilliam.ng@mail.utoronto.ca>
 
 <!---
 bachnwill/bachnwill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
